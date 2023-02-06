@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="benben" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="benbens_assembly" assemblyId="c73a98583b394009a86bccd541e34a12">
+<Part name="benben" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="4.91738e-07 0.307148 2.17775" rotation="AD: 0.99972 -0.0715814 0.358147 201.265" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
